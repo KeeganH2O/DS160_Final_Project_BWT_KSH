@@ -1,0 +1,7 @@
+  The data used for this analysis project is taken from the UCI Machine Learning Library for use in learning amateur machine learning techniques. 
+The data represent Polish companies over a forecasting period that included various measures of economic success to determine whether a specific 
+company is bankrupt or not. After using data manipulation techniques, we combined the 5 data sets included in this repository into a large data 
+frame for use with a variety of machine learning algorithms. To deal with missing data, we replaced any missing data with the mean of its corresponding 
+column. In this analysis, we used logistic regression, decision trees, and random forest algorithms to create a model to predict the economic 
+futures of these companies. Our analysis yielded results that showed that a decision tree was the best method of prediction out of the three models
+we used with an overall accuracy of 96%.
